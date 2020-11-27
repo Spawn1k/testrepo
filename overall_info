@@ -1,0 +1,164 @@
+start_time        : 1606427869
+last_update       : 1606440154
+fuzzer_pid        : 4675
+cycles_done       : 0
+execs_done        : 1949257
+execs_per_sec     : 180.05
+paths_total       : 5654
+paths_favored     : 739
+paths_found       : 46
+paths_imported    : 3975
+max_depth         : 3
+cur_path          : 239
+pending_favs      : 717
+pending_total     : 5623
+variable_paths    : 827
+stability         : 98.31%
+bitmap_cvg        : 18.98%
+unique_crashes    : 12
+unique_hangs      : 10
+last_path         : 1606439959
+last_crash        : 1606438053
+last_hang         : 1606429214
+execs_since_crash : 384370
+exec_timeout      : 20
+afl_banner        : master
+afl_version       : 2.57b
+target_mode       : default
+command_line      : afl-fuzz -i - -o /root/common/ -M master /root/ImageMagick-6.9.0-0/utilities/convert @@ @@
+slowest_exec_ms   : 20
+peak_rss_mb       : not available while afl is running
+start_time        : 1606427877
+
+--------------------------------------------
+
+last_update       : 1606440123
+fuzzer_pid        : 6003
+cycles_done       : 2
+execs_done        : 1759977
+execs_per_sec     : 124.15
+paths_total       : 6691
+paths_favored     : 723
+paths_found       : 1562
+paths_imported    : 3151
+max_depth         : 6
+cur_path          : 5375
+pending_favs      : 8
+pending_total     : 5484
+variable_paths    : 984
+stability         : 98.23%
+bitmap_cvg        : 18.99%
+unique_crashes    : 151
+unique_hangs      : 101
+last_path         : 1606440109
+last_crash        : 1606440095
+last_hang         : 1606440059
+execs_since_crash : 4339
+exec_timeout      : 20
+afl_banner        : slave01
+afl_version       : 2.57b
+target_mode       : default
+command_line      : afl-fuzz -i - -o /root/common/ -S slave01 /root/ImageMagick-6.9.0-0/utilities/convert @@ @@
+slowest_exec_ms   : 20
+peak_rss_mb       : not available while afl is running
+
+--------------------------------------------
+
+start_time        : 1606427881
+last_update       : 1606440126
+fuzzer_pid        : 7364
+cycles_done       : 3
+execs_done        : 1788298
+execs_per_sec     : 161.81
+paths_total       : 6695
+paths_favored     : 736
+paths_found       : 1467
+paths_imported    : 3264
+max_depth         : 8
+cur_path          : 3140
+pending_favs      : 5
+pending_total     : 5498
+variable_paths    : 983
+stability         : 98.49%
+bitmap_cvg        : 18.99%
+unique_crashes    : 162
+unique_hangs      : 102
+last_path         : 1606440120
+last_crash        : 1606440048
+last_hang         : 1606438360
+execs_since_crash : 11985
+exec_timeout      : 20
+afl_banner        : slave02
+afl_version       : 2.57b
+target_mode       : default
+command_line      : afl-fuzz -i - -o /root/common/ -S slave02 /root/ImageMagick-6.9.0-0/utilities/convert @@ @@
+slowest_exec_ms   : 20
+peak_rss_mb       : not available while afl is running
+
+--------------------------------------------
+
+
+start_time        : 1606427886
+last_update       : 1606440148
+fuzzer_pid        : 9198
+cycles_done       : 3
+execs_done        : 1776753
+execs_per_sec     : 150.15
+paths_total       : 6278
+paths_favored     : 741
+paths_found       : 1571
+paths_imported    : 4706
+max_depth         : 7
+cur_path          : 5494
+pending_favs      : 7
+pending_total     : 5051
+variable_paths    : 989
+stability         : 98.27%
+bitmap_cvg        : 19.00%
+unique_crashes    : 150
+unique_hangs      : 95
+last_path         : 1606440141
+last_crash        : 1606440079
+last_hang         : 1606439986
+execs_since_crash : 10197
+exec_timeout      : 20
+afl_banner        : slave03
+afl_version       : 2.57b
+target_mode       : default
+command_line      : afl-fuzz -i /root/AFL/testcases/images/jpeg/ -o /root/common/ -S slave03 /root/ImageMagick-6.9.0-0/utilities/convert @@ @@
+slowest_exec_ms   : 20
+peak_rss_mb       : not available while afl is running
+
+--------------------------------------------
+
+
+start_time        : 1606427906
+last_update       : 1606440147
+fuzzer_pid        : 20891
+cycles_done       : 2
+execs_done        : 1782598
+execs_per_sec     : 158.23
+paths_total       : 6639
+paths_favored     : 734
+paths_found       : 1480
+paths_imported    : 3277
+max_depth         : 7
+cur_path          : 6450
+pending_favs      : 8
+pending_total     : 5422
+variable_paths    : 985
+stability         : 98.43%
+bitmap_cvg        : 19.00%
+unique_crashes    : 168
+unique_hangs      : 124
+last_path         : 1606440113
+last_crash        : 1606439969
+last_hang         : 1606440041
+execs_since_crash : 26353
+exec_timeout      : 20
+afl_banner        : slave04
+afl_version       : 2.57b
+target_mode       : default
+command_line      : afl-fuzz -i - -o /root/common/ -S slave04 /root/ImageMagick-6.9.0-0/utilities/convert @@ @@
+slowest_exec_ms   : 20
+peak_rss_mb       : not available while afl is running

@@ -1,0 +1,127 @@
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x0000000002e87440 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7f86af97b8a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x0000000001d28440 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7f0f21a028a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x0000000001999440 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7fdb74e0b8a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x00000000020d64d0 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7f81878bb8a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x0000000001b36400 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7f6cd9ac48a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x0000000001cb4400 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7fc3729bb8a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x0000000001b2b440 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7f7e72da18a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x000000000301b440 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7f0c3c2288a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x00000000017db400 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7fab905788a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x00000000033af400 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7fadfd1ce8a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x0000000003483960 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7fc5850dd8a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x00000000029d3400 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7f4134a4f8a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x000000000179f440 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7fdd3ac8e8a9]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': realloc(): invalid next size: 0x0000000002cc8400 ***
+/lib/x86_64-linux-gnu/libc.so.6(realloc+0x199)[0x7f76c21598a9]
+convert: malloc.c:2401: sysmalloc: Assertion `(old_top == initial_top (av) && old_size == 0) || ((unsigned long) (old_size) >= MINSIZE && prev_inuse (old_top) && ((unsigned long) old_end & (pagesize - 1)) == 0)' failed.
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7faf3c1f41d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f5bf37e91d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f66824431d4]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': malloc(): memory corruption: 0x00000000028e8170 ***
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f6ffd1441d4]
+convert: malloc.c:2401: sysmalloc: Assertion `(old_top == initial_top (av) && old_size == 0) || ((unsigned long) (old_size) >= MINSIZE && prev_inuse (old_top) && ((unsigned long) old_end & (pagesize - 1)) == 0)' failed.
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f24d54bf1d4]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': malloc(): memory corruption (fast): 0x000000000237d8d0 ***
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f4b5448d1d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f71fb2521d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7fc1a58261d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7fc78f3fc1d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7ffbf1f851d4]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': malloc(): memory corruption (fast): 0x0000000002625790 ***
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f07d25981d4]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': malloc(): memory corruption (fast): 0x00000000030db290 ***
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f06b13af1d4]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': malloc(): memory corruption: 0x0000000002a691b0 ***
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f962bbdc1d4]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': malloc(): memory corruption (fast): 0x0000000002f8c890 ***
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f30268af1d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f14ba31f1d4]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': malloc(): memory corruption: 0x0000000002304880 ***
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7fc0327dd1d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f63418961d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7ff16869e1d4]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': malloc(): memory corruption: 0x00000000017f71b0 ***
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f172e3d11d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f36a8d321d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f741d4e21d4]
+/lib/x86_64-linux-gnu/libc.so.6(__libc_malloc+0x54)[0x7f3b5367f1d4]
+convert: malloc.c:2401: sysmalloc: Assertion `(old_top == initial_top (av) && old_size == 0) || ((unsigned long) (old_size) >= MINSIZE && prev_inuse (old_top) && ((unsigned long) old_end & (pagesize - 1)) == 0)' failed.
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x00000000026605f0 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x0000000001d39160 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x00000000030b4430 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x000000000164c920 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x000000000253b920 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x0000000002cfe430 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x0000000001c56920 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x0000000002327920 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x00000000016cc920 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x00000000025e7c20 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x000000000297a920 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x0000000002fb1470 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x0000000001670470 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x00000000035294b0 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x00000000031e2470 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': corrupted size vs. prev_size: 0x00000000018d3920 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': invalid fastbin entry (free): 0x0000000001d42910 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': invalid fastbin entry (free): 0x0000000001b21910 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': invalid fastbin entry (free): 0x0000000002ebd910 ***
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': double free or corruption (out): 0x0000000002798390 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f3f9191e58c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': double free or corruption (out): 0x0000000002ea9840 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7fe0de73b58c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid next size (normal): 0x000000000171ebc0 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f35948b858c]
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f040428b58c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid next size (fast): 0x0000000002b079d0 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f870a79658c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid next size (fast): 0x00000000026a64d0 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f82c12c358c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid pointer: 0x0000000001f00000 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f7926a3d58c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid next size (normal): 0x0000000002ba0440 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f685e40558c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': double free or corruption (out): 0x0000000001ba5890 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7fd2e266958c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid next size (fast): 0x0000000001c888d0 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7fe6e8c9c58c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid pointer: 0x00000000020d5555 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f7e4eb4458c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid next size (fast): 0x0000000001d9d390 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7ff1a889d58c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid next size (fast): 0x0000000002392190 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7fd3e1d5458c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': double free or corruption (!prev): 0x00000000029fa880 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f0b7cc4058c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': double free or corruption (out): 0x000000000295af50 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f7cdcb7258c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid next size (fast): 0x00000000021af8d0 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f0dff9d758c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid size: 0x0000000002c25cf0 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f3b4b9cb58c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': double free or corruption (out): 0x0000000002e387d0 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7fa8f18b858c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': double free or corruption (out): 0x0000000002389a90 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f0863b1f58c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': double free or corruption (out): 0x0000000001c63390 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f73b248a58c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid next size (fast): 0x00000000019978d0 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7fa1bccff58c]
+*** Error in `/root/ImageMagick-6.9.0-0/utilities/convert': free(): invalid next size (normal): 0x0000000001c06440 ***
+/lib/x86_64-linux-gnu/libc.so.6(cfree+0x4c)[0x7f5ad368c58c]
+
+
+---
+254x Aborted
